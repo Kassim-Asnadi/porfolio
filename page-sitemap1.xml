@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://kassim-asnadi.fr/sitemaps_xsl.xsl"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://kassim-asnadi.fr/gestion-du-patrimoine/</loc>
+<lastmod>2024-03-24T22:35:15+04:00</lastmod></url>
+<url>
+<loc>https://kassim-asnadi.fr/parcours/</loc>
+<lastmod>2024-03-24T22:12:50+04:00</lastmod></url>
+<url>
+<loc>https://kassim-asnadi.fr/stages/</loc>
+<lastmod>2024-03-24T21:14:17+04:00</lastmod>
+<image:image>
+<image:loc><![CDATA[https://kassim-asnadi.fr/https://https://kassim-asnadi.fr/wp-content/uploads/2024/03/IMG_3895-1024x576.jpg]]></image:loc>
+</image:image>
+<image:image>
+<image:loc><![CDATA[https://kassim-asnadi.fr/https://https://kassim-asnadi.fr/wp-content/uploads/2024/03/IMG_3796-1024x576.jpg]]></image:loc>
+</image:image></url>
+<url>
+<loc>https://kassim-asnadi.fr/veille-juridique/</loc>
+<lastmod>2024-03-22T14:37:53+04:00</lastmod></url>
+<url>
 <loc>https://kassim-asnadi.fr/contact/</loc>
 <lastmod>2024-03-18T16:41:49+04:00</lastmod></url>
 <url>
@@ -11,9 +29,6 @@
 <url>
 <loc>https://kassim-asnadi.fr/document/</loc>
 <lastmod>2024-02-23T14:39:12+04:00</lastmod></url>
-<url>
-<loc>https://kassim-asnadi.fr/stages/</loc>
-<lastmod>2024-02-20T10:25:11+04:00</lastmod></url>
 <url>
 <loc>https://kassim-asnadi.fr/veille-technologique/</loc>
 <lastmod>2024-02-19T12:48:51+04:00</lastmod>
@@ -27,9 +42,6 @@
 <image:loc><![CDATA[https://wp-pa.phonandroid.com/uploads/2022/11/wifi7-3-1536x852.jpg]]></image:loc>
 </image:image></url>
 <url>
-<loc>https://kassim-asnadi.fr/gestion-du-patrimoine/</loc>
-<lastmod>2024-02-15T12:21:00+04:00</lastmod></url>
-<url>
 <loc>https://kassim-asnadi.fr/bts-sio/</loc>
 <lastmod>2024-02-09T12:39:21+04:00</lastmod>
 <image:image>
@@ -37,7 +49,4 @@
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://kassim-asnadi.fr/https://https://kassim-asnadi.fr/wp-content/uploads/2024/02/slam.png]]></image:loc>
-</image:image></url>
-<url>
-<loc>https://kassim-asnadi.fr/parcours/</loc>
-<lastmod>2024-02-07T05:45:35+04:00</lastmod></url></urlset>
+</image:image></url></urlset>
